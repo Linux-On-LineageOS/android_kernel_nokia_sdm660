@@ -218,4 +218,6 @@ source "drivers/fih/Kconfig"
 
 source "drivers/haptics/Kconfig"
 
+
+source "drivers/lindroid-drm/Kconfig"
 endmenu
