@@ -189,3 +189,4 @@ obj-y   += fih/
 obj-$(CONFIG_TEE)		+= tee/
 obj- += lindroid-drm/
 obj- += lindroid-drm/
+obj-$(CONFIG_DRM_LINDROID_EVDI) += lindroid-drm/
